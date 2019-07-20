@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "436338018174",
+    "firebase_url": "https://qwerty-2234d.firebaseio.com",
+    "project_id": "qwerty-2234d",
+    "storage_bucket": "qwerty-2234d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436338018174:android:1f989940123d1d23",
+        "android_client_info": {
+          "package_name": "com.minorproj1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436338018174-9b81459ej7b1q9h8en2lbnbdsq6pm17l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGz1jE0nClgSY1yibGjogsiSukfstC4V4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436338018174-9b81459ej7b1q9h8en2lbnbdsq6pm17l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
